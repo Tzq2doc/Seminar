@@ -1,3 +1,9 @@
+# Seminar every 2 weeks. Note to check the email
+## ppt can be download from:
+https://pan.zju.edu.cn/share/87b597c2f633cb25fd9126bd7b  (passwd: paper06)
+
+# Schedule
+
 ## 1-2020/7/24	
 
 叶钰楠	Shaham, Tamar Rott et al. “SinGAN: Learning a Generative Model From a Single Natural Image.” ICCV (2019): 4569-4579.									
