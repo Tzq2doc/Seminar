@@ -13,7 +13,8 @@
 
 严薪	Weakly-Supervised Semantic Segmentation via Sub Category Exploration CVPR 2020									
 
-马文博	Learning_to_Assemble_Neural_Module_Tree_Networks_for_Visual_Grounding_ICCV_2019									
+马文博	Learning_to_Assemble_Neural_Module_Tree_Networks_for_Visual_Grounding_ICCV_2019		
+
 张凤达	A Simple Framework for Contrastive Learning of Visual Representations；  Momentum Contrast for Unsupervised Visual Representation Learning；主题：对比学习(contrastive learning)									
 ## 3-2020/8/21	
 
