@@ -39,17 +39,17 @@ https://pan.zju.edu.cn/share/87b597c2f633cb25fd9126bd7b  (passwd: paper06)
 
 俞鑫:	Visual Commonsense R-CNN_CVPR2020									
 ## 5-2020/9/25	
-李琳										
+李琳   Learning Visual Commonsense for Robust Scene Graph Generation ECCV2020 							
 
 肖少宁										
 
 李佳晖										
 
-郑宇航										
+郑宇航	Uniﬁed Vision-Language Pre-Training for Image Captioning and VQA AAAI2020									
 
 ## 6-2020/10/16											
 
-叶钰楠										
+叶钰楠	RAFT: Recurrent All-Pairs Field Transforms for Optical Flow ECCV2020								
 
 蒋志宏										
 
