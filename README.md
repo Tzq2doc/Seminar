@@ -1,6 +1,4 @@
 # Seminar every 2 weeks. Note to check the email
-## ppt can be download from:
-https://pan.zju.edu.cn/share/87b597c2f633cb25fd9126bd7b  (passwd: paper06)
 
 # Schedule
 
