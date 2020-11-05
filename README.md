@@ -2,7 +2,16 @@
 
 # Schedule
 
-		
+## 8-2020/11/13	
+
+钱旭峰										
+
+邵飞飞										
+
+黄一峰										
+
+俞鑫										
+
 
 ## 7-2020/10/30	
 
@@ -71,13 +80,3 @@
 郑宇航	Yin, Yue et al. “Neural Visual Social Comment on Image-Text Content.” Iete Technical Review (2020): 1-12.									
 
 钱旭峰	Ghorbani, Amirata et al. “Towards Automatic Concept-based Explanations.” NeurIPS (2019).
-
-## 8-2020/11/13	
-
-钱旭峰										
-
-邵飞飞										
-
-黄一峰										
-
-俞鑫										
