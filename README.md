@@ -2,15 +2,15 @@
 
 # Schedule
 
-## 8-2020/11/13	
+9-2020/11/26：郭雪、李琳、李佳晖、郑宇航
 
-钱旭峰										
+## **8-2020/11/13**	
 
 邵飞飞										
 
 黄一峰										
 
-俞鑫										
+俞鑫	A Competence-aware Curriculum for Visual Concepts Learning via Question Answering， ECCV2020									
 
 
 ## 7-2020/10/30	
