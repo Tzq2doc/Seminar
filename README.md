@@ -12,9 +12,9 @@
 
 ## **8-2020/11/13**	
 
-邵飞飞										
+邵飞飞	Causal Intervention for Weakly-Supervised Semantic Segmentation NIPS2020									
 
-黄一峰										
+黄一峰	Video Relation Detection via Multiple Hypothesis Association ACMMM 2020									
 
 俞鑫	A Competence-aware Curriculum for Visual Concepts Learning via Question Answering， ECCV2020									
 
