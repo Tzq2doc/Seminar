@@ -27,7 +27,7 @@
 
 高凯锋	Beyond Short-Term Snippet: Video Relation Detection with Spatio-Temporal Global Context CVPR2020							
 
-唐作其	
+唐作其  Data Valuation for Federated learning
 
 ## 6-2020/10/16											
 
